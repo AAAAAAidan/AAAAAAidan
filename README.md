@@ -1,16 +1,13 @@
-### Hi there 👋
+### My Projects
 
-<!--
-**AAAAAAidan/AAAAAAidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### [SiIvaGunner Database](https://github.com/SiIvaGunner-Database)
 
-Here are some ideas to get you started:
+A suite of mostly Google Apps Script projects documenting YouTube channels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### [Simple Library](https://github.com/AAAAAAidan/Simple-Library)
+
+A Spring Boot application containing digital books in the public domain.
+
+#### [Personal Portfolio](https://github.com/AAAAAAidan/Personal-Portfolio)
+
+A Next.js application showcasing my work using a public REST API.
