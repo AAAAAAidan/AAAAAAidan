@@ -1,1 +1,1 @@
-![Damon Gant laughing and clapping](damon.gif)
+![Guy Eldoon nervous and hungry](eldoon.gif)
