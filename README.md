@@ -1,1 +1,1 @@
-![Guy Eldoon nervous and hungry](eldoon.gif)
+![Winfred Kitaki is blinking](winfred.gif)
