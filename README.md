@@ -1,1 +1,1 @@
-![Winfred Kitaki is blinking](winfred.gif)
+![Damon Gant is smiling](damon_smiling.gif)
