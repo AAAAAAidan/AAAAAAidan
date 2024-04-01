@@ -1,1 +1,1 @@
-![Winfred Kitaki blinks and blinks](winfred.gif)
+![Lisa Basil smiles and is maybe a little tired](lisa.gif)
